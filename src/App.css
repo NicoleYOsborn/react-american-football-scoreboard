@@ -6,11 +6,11 @@
 .scoreboard {
   width: 58%;
   margin: 2rem auto;
-  background-image: url("/src/images/quidditchPitch.jpg");
+  background: url(images/quidditchPitch.jpg);
   /* background-position: center; 
   background-repeat: no-repeat; 
   background-size: cover;  */
-  background-color: #0b5402;
+  /* background-color: #0b5402; */
   color: white;
   border-radius: 0.5rem;
   padding: 5rem;
@@ -37,11 +37,11 @@
 }
 
 .home {
-  background-color: #656565;
+  background-color: #800000;
 }
 
 .away {
-  background-color: #af750a;
+  background-color: #0b5402;
 }
 
 .home__name,
